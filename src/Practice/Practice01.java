@@ -4,7 +4,7 @@ public class Practice01 {
 
     public static void main(String[] args) {
 
-        String str1 = "Reverse";
+        String str1 = "Reverses";
         String str2="";
 
         int len = str1.length();
