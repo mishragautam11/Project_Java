@@ -3,7 +3,7 @@ package Re_visosn;
 public class Third_largest_number {
     public static void main(String[] args) {
 
-        int[] a = {1,8,9,6,5};
+        int[] a = {1,8,9,6,5,2};
 
         int max1 = 0;
         int max2 = 0;
