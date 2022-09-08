@@ -11,6 +11,7 @@ public class ArralistImplimentation {
         arr.add("G");
         arr.add("gautam");
         arr.add(23.3);
+        arr.add(true);
 
         // WE are using Foreach loop for reduce the code complexity
         for (Object Obj:arr) {
