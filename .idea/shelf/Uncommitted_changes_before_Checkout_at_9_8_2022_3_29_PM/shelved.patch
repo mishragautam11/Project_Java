@@ -1,0 +1,19 @@
+Index: src/Practice/Practice01.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Practice;\r\n\r\npublic class Practice01 {\r\n\r\n    public static void main(String[] args) {\r\n\r\n        String str1 = \"Reverses\";\r\n        String str2=\"\";\r\n\r\n        int len = str1.length();\r\n\r\n        for (int i =len-1;i>=0 ;i--) {\r\n            str2 = str2 + str1.charAt(i);\r\n        }\r\n\r\n        System.out.print(str2);\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Practice/Practice01.java b/src/Practice/Practice01.java
+--- a/src/Practice/Practice01.java	(revision 80e2cb0d22b29d71700de8ef4ea9faf074d38e82)
++++ b/src/Practice/Practice01.java	(date 1662631056675)
+@@ -4,7 +4,7 @@
+ 
+     public static void main(String[] args) {
+ 
+-        String str1 = "Reverses";
++        String str1 = "Reverse";
+         String str2="";
+ 
+         int len = str1.length();

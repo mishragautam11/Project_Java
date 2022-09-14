@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="IdeaProjects">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/.." />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/Java/jdk-17.0.4.1/bin" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Demo_Project/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../MyWorkspace/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../My_Cucumber/src/test/java" />
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="file://$PROJECT_DIR$/../My_Project/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../Project_Interview/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../Project_testng/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../RESTAssured_API/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../RestAssure_API/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

@@ -8,13 +8,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ced5fdf8-dbde-4f1c-9e06-608c1ece52eb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/IdeaProjects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/My_Java_Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/My_Java_Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My_Java_Project/Interview_questions/ArralistImplimentation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_Java_Project/Interview_questions/ArralistImplimentation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My_Java_Project/Practice/Practice01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_Java_Project/Practice/Practice01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My_Java_Project/Re_visosn/Third_largest_number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_Java_Project/Re_visosn/Third_largest_number.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My_Java_Project/Revision/Star_Pattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_Java_Project/Revision/Star_Pattern.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My_Java_Project/Test/Getuppercase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_Java_Project/Test/Getuppercase.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +32,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Staging" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,6 +42,7 @@
     <setting file="file://$PROJECT_DIR$/src/Interview_questions/Reverse_string.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Interview_questions/Set_Implementation.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Test/Compare_Two_String.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Test/Getuppercase.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -51,27 +53,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/IdeaProjects/My_Java_Project&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Facets&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Program Files/Java/jdk-17.0.4.1/bin",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "configurable.group.editor"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -145,10 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Star_Pattern" />
-        <item itemvalue="Application.Find_upperCase" />
         <item itemvalue="Application.Third_largest_number" />
+        <item itemvalue="Application.Star_Pattern" />
         <item itemvalue="Application.Palendrom" />
+        <item itemvalue="Application.Find_upperCase" />
+        <item itemvalue="Application.Star_Pattern" />
       </list>
     </recent_temporary>
   </component>
@@ -169,11 +172,11 @@
       <updated>1662618491310</updated>
     </task>
     <task id="LOCAL-00002" summary="My_Codes1">
-      <created>1662630460324</created>
+      <created>1662636019852</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1662630460324</updated>
+      <updated>1662636019852</updated>
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
