@@ -1,0 +1,89 @@
+{
+      
+    "searchTermMilk":"milk",
+    "searchTermCoke":"coke",
+    "searchTermAEM":"chocolate",
+    "searchTermMeat":"meat",
+    "searchTermVitamins":"vitamins",
+    "searchTermWater":"water",
+    "searchTermBread":"bread",
+    "searchTermCake":"cake",    
+    "AutoSearchTermcitrus":"bred",
+    "AutoSearchTermAEM":"choclate",
+    "searchTermBotanica":"botanica",
+
+    "AdSourceCitrus": "Citrus",
+    "AdSourceAEM": "AEM",
+
+    "category":"Bakery",
+    "categoryL1":"All Bakery",
+    "categoryL2":"Packaged Breads",
+    "categoryL3":"White Bread",
+
+    "CategoryAEM":"Pet",
+    "CategoryAEML1":"All Pet",
+    "CategoryAEML2":"Dog & Puppy",
+    "CategoryAEML3":"Trays & Cans Dog Food",
+
+    "CategoryDeli":"Deli",
+    "CategoryAllDeli":"All Deli",
+    "CategoryHousehold":"Household",
+    "CategoryAllHousehold":"All Household",
+
+    "CategoryShoppable":"Fruit & Vegetables",
+    "CategoryShoppableL1":"Packaged Salad",
+
+    "SearchCategoryLevel1":"Dairy, Eggs & Fridge",
+    "SearchCategoryLevel2":"Milk",
+    "SearchCategoryLevel3":"Full Cream Milk",
+
+    "SearchAEMCatLev1":"Pantry",
+    "SearchAEMCatLev11":"All Pantry",
+    "SearchAEMCatLev2":"Confectionery",
+    "SearchAEMCatLev3":"Chocolate Bars",
+    "L2AisleBreakfast":"Breakfast",
+
+
+    "CategoryCheese":"Cheese",
+
+    "SpecialsSearchTerm":"Kelloggs",
+    "SpecialsSearchTermArnotts":"arnotts",
+    "SpecialsSearchTermSwisse":"Swisse",
+    
+
+    "SpecialsAisleCatLev1":"Health & Beauty",
+    "SpecialsAisleCatLev2":"Vitamins & Supplements",
+    "SpecialsAisleCatLev3":"Immune Support",    
+
+    "TobaccoBBCategory":"Tobacco",
+    "BBUsername":"svtbbenhance02@getnada.com",
+    "BBPassword":"Coles@test01",
+    "BBUsernameOne":"svtbbenhance03@getnada.com",
+    "searchQuantity": "10",
+    "HYCQuantity":"2",
+    "ShoppableSKUQuantity":"2",
+
+    "HomeDeliveryAddressType" :"Lillydale",
+    "HomeDeliveryAddressSelect" :"Lillydale West, 6-8 Bella Donna Place, Robina QLD 4226",
+
+    "SkinnyWithRedTheme":"SkinnyWithRedTheme",
+    "SkinnyWithDarkTheme": "SkinnyWithDarkTheme",
+    "SkinnyWithLightTheme" : "SkinnyWithLightTheme",
+    "RedTheme": "Red",
+    "DarkTheme": "Dark",
+    "LightTheme": "Light",
+    "RegularWithRedTheme" : "RegularWithRedTheme",
+
+    "ECMUserName":"preethi.kumar1@coles.com.au",
+    "ECMPassword":"Coles@110",
+    "ECMSITPassword":"Coles@91",
+
+    "ECMHDsearchAdd": "10 Shetland Street, ENDEAVOUR HILLS VIC 3802",
+    "ECMHDselectAdd": "10 Shetland Street, ENDEAVOUR HILLS VIC 3802",
+
+    "IncludeHYC":"Yes"
+
+
+
+        
+}
